@@ -28,7 +28,7 @@ Check out our live demo [here](https://huggingface.co/spaces/duongve/Sketch2Visu
 ### Clone the repository
 
 ```
-git clone https://github.com/your-username/Sketch2Visual.git
+git clone https://github.com/duongve13112002/Sketch2Visual.git
 cd Sketch2Visual
 ```
 
