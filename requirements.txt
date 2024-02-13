@@ -1,0 +1,8 @@
+fastapi
+Pillow
+starlette
+uvicorn
+gunicorn
+numpy
+tensorflow
+opencv-python
