@@ -1,9 +1,9 @@
 # Sketch2Visual: Deep Learning-Powered Web App for Searching
 
-Welcome to Sketch2Visual, a web application that leverages deep learning to predict objects from user-drawn sketches. With the power of neural networks, our system can identify the sketched object and connect to the Bing Image API to provide visualizations in real-time.
+Welcome to Sketch2Visual, a web application that leverages deep learning to predict objects from user-drawn sketches. With the power of neural networks, our system can identify the sketched object and connect to the Bing Image Search API to provide visualizations in real-time.
 
 ## Demo
-Check out our live demo [here](https://huggingface.co/spaces/duongve/Sketch2Visual), where you can experience the magic of Sketch2Visual firsthand. Feel free to draw sketches and witness the system's accurate predictions and dynamic Bing Image search visualizations.
+Check out our live demo [here](https://huggingface.co/spaces/duongve/Sketch2Visual), where you can experience the magic of Sketch2Visual firsthand. Feel free to draw sketches and witness the system's accurate predictions and Bing Image Search visualizations.
 
 ![demo_app](app_demo.png)
 
