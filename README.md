@@ -14,8 +14,9 @@ Check out our live demo [here](https://huggingface.co/spaces/duongve/Sketch2Visu
 
 - Model's architecture:
 
-![Deep_wise](Model/Model_using_IRB/Relating_to_the_model/Visualization_model_structure/inverted_residual_block.png)
 > Inverted Residual Block.
+![Deep_wise](Model/Model_using_IRB/Relating_to_the_model/Visualization_model_structure/inverted_residual_block.png)
+
 ![Model_structure](Model/Model_using_IRB/Relating_to_the_model/Visualization_model_structure/Model_construct.png)
 
 
