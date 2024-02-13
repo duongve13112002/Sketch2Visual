@@ -13,6 +13,7 @@ Check out our live demo [here](https://huggingface.co/spaces/duongve/Sketch2Visu
 - In this project, we employed two deep learning models, one with an architecture similar to VGGNet, and the other utilizing the 'Inverted Residual Block' architecture. Both models yielded excellent results. However, we chose to use the model with the 'Inverted Residual Block' architecture due to its superior efficiency and less complex structure, making it suitable for devices with limited computational resources.
 
 - Model's architecture:
+
 ![Deep_wise](Model/Model_using_IRB/Relating_to_the_model/Visualization_model_structure/inverted_residual_block.png)
 > Inverted Residual Block.
 ![Model_structure](Model/Model_using_IRB/Relating_to_the_model/Visualization_model_structure/Model_construct.png)
