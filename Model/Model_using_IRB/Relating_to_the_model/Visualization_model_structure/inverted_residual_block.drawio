@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-13T05:27:51.671Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="YZKLx7H0-g6cfZ81loCI" version="23.1.2" type="device">
+<mxfile host="app.diagrams.net" modified="2024-02-13T05:44:09.161Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="rIsqkkWoAhP_39XJYKh6" version="23.1.3" type="device">
   <diagram name="Trang-1" id="-3d2bOjS2-nExsUqnp5y">
     <mxGraphModel dx="1006" dy="559" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -89,14 +89,14 @@
         <mxCell id="-GoUToULtl3jQj0lWMZl-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="-GoUToULtl3jQj0lWMZl-36" target="-GoUToULtl3jQj0lWMZl-29" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-GoUToULtl3jQj0lWMZl-36" value="stride = 1 và&lt;br&gt;input.shape =&amp;nbsp; BatchNormalize.shape" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="-GoUToULtl3jQj0lWMZl-36" value="stride = 1 and&lt;br&gt;input.shape =&amp;nbsp; BatchNormalize.shape" style="rhombus;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="262.5" y="800" width="265" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="-GoUToULtl3jQj0lWMZl-43" value="Đúng" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="-GoUToULtl3jQj0lWMZl-43" value="Yes" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="330" y="910" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="-GoUToULtl3jQj0lWMZl-44" value="Sai" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="510" y="830" width="60" height="30" as="geometry" />
+        <mxCell id="-GoUToULtl3jQj0lWMZl-44" value="No" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="510" y="820" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
